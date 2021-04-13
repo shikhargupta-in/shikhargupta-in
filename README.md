@@ -21,5 +21,5 @@ Here are some ideas to get you started: -->
 ## My Working Stack:
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shikhargupta-in&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true"/><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=shikhargupta-in&show_icons=true&title_color=FF0000&icon_color=C90522&text_color=ffffff&bg_color=000000&count_private=true"/><br>
 </p>
