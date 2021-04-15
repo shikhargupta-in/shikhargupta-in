@@ -40,7 +40,7 @@ Here are some ideas to get you started: -->
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/shikhargupta-in/shikhargupta-in">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhargupta-in&hide=java,html&title_color=FF0000&text_color=ffffff&icon_color=2bbc8a&bg_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhargupta-in&hide=java,html&title_color=FF0000&text_color=ffffff&icon_color=C90522&bg_color=000000" />
 </a>
 
 <a href="https://github.com/shikhargupta-in/shikhargupta-in">
