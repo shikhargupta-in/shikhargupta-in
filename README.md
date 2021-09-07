@@ -1,9 +1,13 @@
-# Hey y'all ! Welcome to my GitHub <img src="https://github.com/shikhargupta-in/shikhargupta-in/blob/master/assets/wave.gif" width="30px">
+<h1 align=center> Hey y'all ! Welcome to my GitHub <img src="https://github.com/shikhargupta-in/shikhargupta-in/blob/master/assets/wave.gif" width="30px"></h1>
 
 <!--
 **shikhargupta-in/shikhargupta-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 #### My name is Shikhar Gupta and I am a ML Enthusiast. Currently, I am exploring the science which revolves around data !<br> 
 #### Find out more about me on
