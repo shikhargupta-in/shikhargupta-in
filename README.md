@@ -5,11 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-
-#### My name is Shikhar Gupta and I am a ML Enthusiast. Currently, I am exploring the science which revolves around data !<br> 
+#### Developer with excellent problem-solving skills and ability to perform well in a team. Always ready to learn, a dedicated and committed person.<br> 
 #### Find out more about me on
 
 [![Portfolio](https://img.shields.io/website?color=E01818&label=Portfolio&style=flat&up_message=Online&url=http://shikhargupta-in.github.io/)](http://shikhargupta-in.github.io/)
@@ -20,26 +16,12 @@ Here are some ideas to get you started: -->
 [![Kaggle](https://img.shields.io/badge/shikhargupta_in-black?style=flat&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/shikharguptain/)](https://www.kaggle.com/shikharguptain)
 
 - 🔭 I’m currently working on brushing up my skills.
-- 👯 I’m looking to collaborate on projects, Kaggle Competitions.
-- 💬 Ask me anything about data science.
+- 👯 I’m looking to collaborate on projects, hackathons.
+- 💬 Ask me anything about my goals.
 - 📫 How to reach me: Mail or linkedin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love to play chess
 
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=E01818)
-![](https://img.shields.io/badge/Code-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=E01818)
-![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=E01818)
-![](https://img.shields.io/badge/Code-Scikit--learn-informational?style=flat&logo=Scikit--learn&logoColor=white&color=E01818)
-![](https://img.shields.io/badge/Viz-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=E01818)
-![](https://img.shields.io/badge/Viz-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=E01818)
-![](https://img.shields.io/badge/Viz-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=E01818)
-![](https://img.shields.io/badge/Viz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=E01818)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=E01818)
-![](https://img.shields.io/badge/IDE-JupyterNb-informational?style=flat&logo=jupyter&logoColor=white&color=E01818)
-![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=E01818)
-![](https://img.shields.io/badge/Tools-Powerpoint-informational?style=flat&logo=microsoft-powerpoint&logoColor=white&color=E01818)
 
 ## &#x1f4c8; GitHub Stats
 
